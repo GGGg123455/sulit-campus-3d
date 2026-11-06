@@ -1,0 +1,16 @@
+{
+  "version": 11,
+  "files": {
+    "campus-data.json": "campus-data.8b10b6ab281b.json",
+    "road-network.json": "road-network.e43b8e017667.json",
+    "hydro-network.json": "hydro-network.c76adee16d67.json",
+    "campus-visual.json": "campus-visual.4a794a7fc5aa.json",
+    "campus.glb.gz": "campus.glb.b4e1b9c2e493.gz",
+    "satellite-comparison.svg": "satellite-comparison.6c1041b785db.svg",
+    "campus-review.json": "campus-review.17f6f51e1bd0.json",
+    "style.css": "style.9e7ec63eafa9.css",
+    "software-renderer.js": "software-renderer.0e2a6ceb4fe1.js",
+    "main.js": "main.d9f27f5c585e.js"
+  },
+  "basis": "Content hashes change filenames whenever bytes change; canonical inputs remain only for rebuilding."
+}
