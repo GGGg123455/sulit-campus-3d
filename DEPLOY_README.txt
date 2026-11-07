@@ -1,4 +1,4 @@
-苏理工三维校园 V12：GitHub Pages 发布包
+苏理工三维校园 V13：GitHub Pages 发布包
 
 本包根目录的 index.html 是网站入口。包含完整模型、材质、JavaScript 库、布局与兼容渲染资源；所有运行资源均为相对路径，无需额外 CDN，可放在 GitHub Pages 的仓库子目录下。
 
@@ -13,6 +13,14 @@
 官方说明：https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
 当前只是完整上传包；只有取得 GitHub 仓库访问权限并实际部署成功后，才能提供该仓库的正式网址。GitHub Pages 在中国大陆的访问速度与可用性尚未实测，不能承诺所有网络均稳定。
+
+V13 用户纠正与全校复查：
+- 原海纳楼三层连廊改二层；西侧一层连接上方新增二层开敞连廊。
+- 宿舍6层、教学及学院5层、行政8层，米制高度仅作参考。
+- 补入24处按卫星图描绘的停车或硬质铺地，车位及车辆为尺度示意。
+- 西门门头两侧题字改为笃学明德、经世致用。
+
+以下旧版本记录由V13纠正覆盖；海纳楼现按二层执行。
 
 V12 用户标图连廊及行政楼窗格校正：
 - A—D采用弧形连廊，D—C采用直线连廊，两条均为一层有顶、两侧敞开，宽度保持一致。
