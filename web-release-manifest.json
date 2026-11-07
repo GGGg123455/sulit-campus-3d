@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "files": {
     "campus-data.json": "campus-data.dc0e3bbcfa00.json",
     "road-network.json": "road-network.92bed7b67b6b.json",
@@ -8,10 +8,19 @@
     "campus.glb.gz": "campus.glb.ae1e6adcc85c.gz",
     "satellite-comparison.svg": "satellite-comparison.d86228d397a7.svg",
     "campus-review.json": "campus-review.1aae5df064ab.json",
-    "style.css": "style.9e7ec63eafa9.css",
+    "style.css": "style.d38b822b3694.css",
     "campus-render-v15.mjs": "campus-render-v15.7e13c7b74c28.mjs",
-    "software-renderer.js": "software-renderer.d4ec08484295.js",
-    "main.js": "main.95db20588403.js"
+    "campus-loader-v16.mjs": "campus-loader-v16.b083b3f85ec2.mjs",
+    "campus-start-v16.mjs": "campus-start-v16.bc6ba912261c.mjs",
+    "campus-fast.glb.gz": "campus-fast.glb.4937aaeb98c7.gz",
+    "campus-detail.glb.gz": "campus-detail.glb.25a8932acae8.gz",
+    "campus-data.json.gz": "campus-data.json.75909899340d.gz",
+    "road-network.json.gz": "road-network.json.79ba61fac474.gz",
+    "hydro-network.json.gz": "hydro-network.json.ec3b90dcfd8a.gz",
+    "campus-visual.json.gz": "campus-visual.json.45d44cdba349.gz",
+    "campus-visual-lite.json.gz": "campus-visual-lite.json.eb16524634c2.gz",
+    "software-renderer.js": "software-renderer.8142582aa20c.js",
+    "main.js": "main.d32c7d0ff3df.js"
   },
   "basis": "Content hashes change filenames whenever bytes change; canonical inputs remain only for rebuilding."
 }
